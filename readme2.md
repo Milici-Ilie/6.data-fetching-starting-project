@@ -653,8 +653,15 @@ return (
 
 > How to use NextJS to create a Full App with BackEnd
 > GOOD THEORY LESSONS, especially for interviews. Check Lessons: 171, 172, 173
+> Very IMPORTANT to keep in mind that the NextJS can pre-render the content immediatly and not wait for data fetching/loading other data from the Backend
 
-    ## ✅I. subtitlu
+    ## ✅I. -Adding "getStaticProps" To Pages
+
+> Must have this exact name "getStaticProps"
+
+[PAGES/index.js]/[]
+
+                                                                                ❗❗❗🥠🥠[GETSTATICPROPS TO PAGES]🥠🥠❗❗❗
 
     ## ✅II. subtitlu
 
