@@ -14,7 +14,7 @@ function HomePage(props) {
       <li>Product 3</li> */}
       {products.map((product) => (
         <li key={product.id}>
-          <Link href={`/${product.id}`}>{product.title}</Link>
+          <Link href={`/products/${product.id}`}>{product.title}</Link>
         </li>
         // 🧨🧨[DYNAMIC PARAMETERS]🧨🧨 here we includ our 'list' inside of 'Link' to create "path's" to our product 'description' page. NOTE! that the connection between pages is created auttomatically in the "href={`/${product.id}`}"
       ))}
