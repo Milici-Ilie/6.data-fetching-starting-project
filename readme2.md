@@ -752,9 +752,22 @@ return (
 
                                                                                 ❗❗❗🧗‍♂️🧗‍♂️[CLIENT-SIDE FETCHING]🧗‍♂️🧗‍♂️❗❗❗
 
-    ## ✅IX. subtitlu
+    ## ✅IX. -Using the 'useSWR' NextJS Hook for Data Fetching
+              -How to install 'useSWR' Hook
+              -Check Documentation for more info about SWR
 
-    ## ✅X. subtitlu
+> Terminal: 'npm install swr'
+> import useSWR from 'swr'
+
+[PAGES/last-sales.js]/[]
+
+                                                                                ❗❗❗⏭⏭[USE-SWR HOOK]⏭⏭❗❗❗
+
+    ## ✅X. -How to combine Pre-Fetching with Client-Side Fetching
+
+[PAGES/last-sales.js]/[SECTION.6,Lesson.197]
+
+                                                                        ❗❗❗🐾🐾[PRE-FETCHING & CLIENT-SIDE FETCHING]🐾🐾❗❗❗
 
     ## ✅XI. subtitlu
 
